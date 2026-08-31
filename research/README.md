@@ -52,9 +52,9 @@ If only one page of this gets read:
 4. **Keep exposition, interpretation and assessment distinguishable in every sentence.** Having a
    view is an asset; smuggling it into the philosopher's voice is the documented failure of
    [Russell 1945]. `03`
-5. **Proportion is a promise.** A book billing five traditions and giving one an eighth of its pages
-   has told the reader something it did not mean to. `02`, and the case of [Grayling 2019] in
-   [`sources.md`](sources.md)
+5. **Proportion is a promise.** A book that bills itself as covering Western *and* Eastern traditions,
+   then gives everything outside the West an eighth of its pages **in total**, has told the reader
+   something it did not mean to. `02`, and the case of [Grayling 2019] in [`sources.md`](sources.md)
 6. **Resemblance is not influence.** Classify every connection as documented transmission, parallel
    development, or your own retrospective comparison, and phrase it accordingly. `02`
 7. **Length is arithmetic.** Words divided by thinkers gives the chapter budget, and below roughly

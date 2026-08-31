@@ -57,7 +57,8 @@ How each choice lands on decisions already specified in `02`, `03` and `04`.
 
 Two rows deliberately do not vary. Proportion between traditions and the era-labelling rule are
 matters of accuracy, not of pitch: a general-reader book has no more licence to give one tradition
-an eighth of the space while claiming to cover five than a scholarly one does. That is the failure
+all the non-Western traditions combined an eighth of the space while claiming to cover them
+alongside the West than a scholarly one does. That is the failure
 [Humphreys 2019] identifies in [Grayling 2019], and [Garfield & Van Norden 2016] make the general
 point that scope should be stated honestly whoever the reader is.
 
