@@ -206,16 +206,25 @@ Forty short chapters from Socrates to Peter Singer.
 - Record: https://philpapers.org/rec/WARALH and
   https://yalebooks.yale.edu/book/9780300187793/a-little-history-of-philosophy/
 
-### [Gottlieb 2000] and [Gottlieb 2016]
+### [Gottlieb 2000]
 Anthony Gottlieb, *The Dream of Reason: A History of Philosophy from the Greeks to the Renaissance*
-(W. W. Norton, 2000) and *The Dream of Enlightenment: The Rise of Modern Philosophy* (W. W. Norton,
-2016). Planned as the first two of three volumes introducing Western philosophy to a wide audience.
+(W. W. Norton, 2000). The first of a planned three volumes introducing Western philosophy to a wide
+audience.
 
 - **Good for**: the model of a general-audience history written from the primary texts rather than
   from the secondary literature, at a length that keeps arguments intact.
-- **Weak on**: incomplete as a series, and Western-only.
-- Record: https://en.wikipedia.org/wiki/The_Dream_of_Reason and
-  https://en.wikipedia.org/wiki/The_Dream_of_Enlightenment
+- **Weak on**: Western-only, and the series is still incomplete a quarter-century after this volume.
+- Record: https://en.wikipedia.org/wiki/The_Dream_of_Reason
+
+### [Gottlieb 2016]
+Anthony Gottlieb, *The Dream of Enlightenment: The Rise of Modern Philosophy* (W. W. Norton, 2016).
+The sequel to [Gottlieb 2000], covering Descartes to Rousseau.
+
+- **Good for**: evidence of what the multi-volume general-audience approach costs in elapsed time.
+  Sixteen years separate it from the first volume, and the third has not appeared. Relevant to
+  decision D3 in `06-decisions-to-make.md`.
+- **Weak on**: Western-only.
+- Record: https://en.wikipedia.org/wiki/The_Dream_of_Enlightenment
 
 ### [Durant 1926]
 Will Durant, *The Story of Philosophy* (Simon & Schuster, 1926).
@@ -339,6 +348,14 @@ His remedies are showing drafts to real readers and defining terms rather than a
 - Record: https://en.wikipedia.org/wiki/The_Sense_of_Style
 
 ---
+
+## Reference-only entries
+
+[Ganeri 2017], [Fung 1948] and [Van Norden 2017] are deliberately not cited by any topic document.
+They are here as the authoritative references a future session should reach for when it writes about
+Indian philosophy, Chinese philosophy, or the case for a multi-tradition canon, rather than as
+support for a claim made in this folder. The folder's rule runs one way only: nothing is cited that
+is not listed here, but an entry may be listed without being cited.
 
 ## Gaps in this bibliography
 
