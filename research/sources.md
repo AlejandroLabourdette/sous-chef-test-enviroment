@@ -273,6 +273,22 @@ Yin-Yang and more from antiquity to the twentieth century.
 - Record: https://en.wikipedia.org/wiki/A_Short_History_of_Chinese_Philosophy and
   https://iep.utm.edu/feng/
 
+### [Berryman 2022]
+Sylvia Berryman, "Ancient Atomism", *Stanford Encyclopedia of Philosophy* (first published 2005,
+substantive revision 18 October 2022), https://plato.stanford.edu/entries/atomism-ancient/
+
+Covers Greek atomism alongside the Indian Nyaya-Vaisheshika, Buddhist and Jaina atomist traditions,
+and is explicit about what can and cannot be claimed regarding contact between them. The tradition
+that Democritus knew the ideas of the Indian "gymnosophists" is "difficult to authenticate";
+the possibility that Islamic atomism was affected by classical Indian debates has been considered
+more seriously, given parallel arguments and the shared view that atoms never exist in isolation.
+
+- **Good for**: the worked example of parallel development versus documented transmission, which is
+  the hardest judgement a multi-tradition chronology has to make. Also a model of how to phrase an
+  influence claim honestly when the evidence is thin.
+- **Weak on**: it is an encyclopedia entry on one topic, not a general treatment of cross-tradition
+  influence.
+
 ---
 
 ## 4. Craft and style
