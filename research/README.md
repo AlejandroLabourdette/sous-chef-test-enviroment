@@ -11,15 +11,27 @@ made deliberately and can be checked against something.
 
 ## How to use this
 
-Every topic document has the same shape: **principles** (numbered, actionable, each with its
-grounding), **failure modes** (named so they can be spotted in a draft), and a **checklist** to run
-against actual work.
+Documents `01` to `05` each end with a **checklist** to run against actual work. Beyond that they
+differ, because the material does:
+
+| File | Numbered rules | Failure modes | Checklist |
+|---|---|---|---|
+| `01` | P1-P10 principles | yes | yes |
+| `02` | O1-O5 ordering rules | yes, F1-F8 | yes |
+| `03` | C1-C3 charity limits | yes | yes |
+| `04` | slots 1-7 of the chapter template | no | yes |
+| `05` | the propagation table | no | yes |
+| `06` | D1-D14 decisions | no | no, it has a Status table instead |
+
+Cross-references use those labels: "O5 in `02`", "P9 in `01`", "slot 4", "see F5 below", "D3".
+A bare `` `02` `` means the file `02-chronological-format.md`.
 
 - **Starting the book?** Read `05` first, then `02`. The audience decision drives everything else,
   and the chronological structure is the hardest problem.
 - **Drafting a chapter?** Work from the template in `04`, then run the checklists in `01` and `03`
   against the draft.
-- **Reviewing a draft?** The checklists at the foot of each document are the review. Start with `01`.
+- **Reviewing a draft?** The checklists at the foot of `01` to `05` are the review. Start with `01`.
+  `06` is not a review document; it is where project-level choices are recorded.
 - **Making a project-level decision?** It is probably logged in `06`. Record the answer there.
 
 ---
