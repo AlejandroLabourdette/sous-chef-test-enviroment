@@ -51,16 +51,23 @@ How each choice lands on decisions already specified in `02`, `03` and `04`.
 | **Timeline** (`04`) | Yes, simple | Yes, parallel columns with dating caveats | Yes, detailed |
 | **Glossary** (`04`) | Short, plain-language | Grouped by tradition, fuller entries | Full, with scholarly senses |
 | **Pronunciation guide** (`04`) | Yes; friction costs this reader most | Yes | Optional |
-| **Per-tradition proportion** (`02` O5) | The same rule applies to all three. Audience does not license imbalance | | |
 | **Note on scope and canon** (`04`) | Short and plain | Fuller, with the historical argument | Fuller, with references |
-| **Era labelling** (`02` O1) | Same rule for all three. Date ranges as headings, period names local to each tradition | | |
 
-Two rows deliberately do not vary. Proportion between traditions and the era-labelling rule are
-matters of accuracy, not of pitch: a general-reader book has no more licence to give one tradition
-all the non-Western traditions combined an eighth of the space while claiming to cover them
-alongside the West than a scholarly one does. That is the failure
-[Humphreys 2019] identifies in [Grayling 2019], and [Garfield & Van Norden 2016] make the general
-point that scope should be stated honestly whoever the reader is.
+### Two rules that do not vary by audience
+
+These are deliberately **not** rows in the table above, because they take the same value in every
+column and a table invites the reader to look for a difference that is not there:
+
+- **Per-tradition proportion** (`02` O5). The share of the book each tradition gets follows the rule
+  set in `02`, whoever the reader is.
+- **Era labelling** (`02` O1). Date ranges as headings, period names kept local to each tradition,
+  for all three audiences.
+
+Both are matters of accuracy rather than of pitch. A general-reader book has no more licence to give
+all the non-Western traditions combined an eighth of the space, while billing itself as covering them
+alongside the West, than a scholarly one does. That is the failure [Humphreys 2019] identifies in
+[Grayling 2019], and [Garfield & Van Norden 2016] make the general point that scope should be stated
+honestly whoever the reader is.
 
 ---
 
