@@ -44,7 +44,7 @@ Quentin Skinner, "Meaning and Understanding in the History of Ideas", *History a
 (1969), 3-53.
 
 The classic statement of what goes wrong when you read past texts through present concerns. Skinner
-names three "mythologies":
+names four "mythologies":
 
 - **The mythology of doctrines** - treating scattered remarks as if they were the writer's settled
   position on a topic, or criticising a writer for failing to address a question they never asked.
@@ -52,9 +52,14 @@ names three "mythologies":
   work that is not systematic or consistent.
 - **The mythology of prolepsis** - describing a writer as anticipating a later doctrine, which
   confuses the significance an observer finds in a text with what the text actually meant.
+- **The mythology of parochialism** - mistaking an author's references, and falsely attributing
+  influence on the basis of random similarities between texts.
 
-- **Good for**: a concrete failure checklist. These three are the standard errors of exactly the
-  book being planned.
+- **Good for**: a concrete failure checklist. These four are the standard errors of exactly the
+  book being planned. Parochialism is the one that bites hardest on a multi-tradition chronology,
+  because resemblance between traditions that never met is exactly what that book will keep finding.
+  It is the grounding for the "resemblance is not evidence of influence" rule in
+  `02-chronological-format.md`.
 - **Weak on**: Skinner is strongly contextualist and the essay is polemical; treat it as one side of
   a live argument, not as settled method. See [Rorty 1984] for the counterweight.
 - Record: https://philpapers.org/rec/SKIMAU
@@ -80,9 +85,9 @@ philosophical anthropology traceable to Christoph Meiners.
 Jay L. Garfield and Bryan W. Van Norden, "If Philosophy Won't Diversify, Let's Call It What It
 Really Is", *The Stone*, The New York Times, 11 May 2016.
 
-Argues that philosophy departments that teach only the European canon should rename themselves
-departments of Anglo-European philosophy. The demand is honesty about scope, not obligatory
-inclusion.
+Argues that a department that regularly offers courses only on Western philosophy should rename
+itself, in their words, the "Department of European and American Philosophy", so that its domain and
+mission are clear. The demand is honesty about scope, not obligatory inclusion.
 
 - **Good for**: the strongest short statement of the principle that scope is a choice you owe the
   reader an explicit account of. Directly applicable: whatever traditions the book covers, say so on
@@ -124,11 +129,12 @@ problem, including where they fail.
 Bertrand Russell, *A History of Western Philosophy* (1945).
 
 The famous one-volume chronological survey, and the standard cautionary tale. Criticised for
-overgeneralisation and omission, particularly in the post-Cartesian period, and for being "not
-always accurate in its account of the thinkers it covers, nor always fair to them". A symposium on
-the work made the central charge precisely: a history of philosophy should be an objective statement
-of doctrines and arguments, and what Russell actually produced was commentary on the history of
-ideas from his own point of view.
+overgeneralisation and omission, particularly in the post-Cartesian period. Summarising the 1945
+reviewers, A. C. Grayling writes that the book "is not always accurate in its account of the thinkers
+it covers, nor always fair to them"; the words are Grayling's, not a verdict of the reviewers
+themselves. The central charge was put precisely by [Symposium 1947]: a history of philosophy should
+be an objective statement of doctrines and arguments, and what Russell actually produced was
+commentary on the history of ideas from his own point of view.
 
 - **Good for**: readable, opinionated, commercially successful, and it demonstrates the exact
   trade-off this book has to manage. Also the clearest available illustration of Rorty's rational
@@ -137,13 +143,33 @@ ideas from his own point of view.
   philosopher.
 - Record: https://en.wikipedia.org/wiki/A_History_of_Western_Philosophy
 
+### [Symposium 1947]
+"A Symposium on Bertrand Russell's History of Western Philosophy", *Franciscan Studies* 7:1 (March
+1947), 72-78.
+
+The contemporary scholarly reception of [Russell 1945], and the source of the central methodological
+charge against it: that a history of philosophy should be an objective statement of doctrines and
+arguments, whereas Russell commented on the history of ideas from his own point of view.
+
+- **Good for**: the grounding for principle P2 in `01-what-makes-it-good.md`. It states the
+  exposition-versus-assessment problem in the form the whole folder uses.
+- **Weak on**: a short symposium from 1947, behind an institutional paywall, and written from a
+  Catholic scholarly standpoint that had its own reasons to dislike the book.
+- Record: https://muse.jhu.edu/article/455174
+
 ### [Copleston 1946-1975]
 Frederick Copleston, *A History of Philosophy*, 9 volumes (1946-1975).
 
-Written in part to redress what Copleston saw as the wrong done by [Russell 1945]. The aim was to
-give full place to each thinker, present the thought in a rounded way, and show the links to
-predecessors and successors. Described by scholars and students as broad-minded and objective,
-comprehensive and scholarly, unified and well proportioned.
+Conceived as a presentation of the development of philosophy for Catholic seminary students, who in
+Copleston's view were being fed an inadequate diet of theses and proofs that reduced most great
+thinkers to caricatures. The aim was to give full place to each thinker, present the thought in a
+rounded way, and show the links to predecessors and successors.
+
+**Correction, review 1.** An earlier version of this entry said Copleston wrote to redress the wrong
+done by [Russell 1945]. That is not documented: the "wrong" in the publisher's account is the
+seminary curriculum, not Russell. Copleston and Russell are a standard and instructive contrast, and
+they did debate each other on the radio in 1948, but neither book was written to answer the other.
+Use the contrast; do not assert the causal claim.
 
 - **Good for**: the opposite pole from Russell, and the source of the "links backward and forward"
   principle that a chronological book lives or dies on.
@@ -212,13 +238,18 @@ the tradition-specific references you need so that coverage is not second-hand.
 ### [Grayling 2019]
 A. C. Grayling, *The History of Philosophy* (Viking/Penguin, 2019).
 
-The first accessible single-volume history to attempt Western, Indian, Chinese, Arabic-Persian and
-African traditions together, plus an appendix on logic, a timeline of philosophers, a bibliography
-and an index.
+704 pages in the Penguin edition, 682 in the Viking hardback. Billed by its publisher as "the first
+authoritative and accessible single-volume history of philosophy to cover both Western and Eastern
+traditions", surveying "in tandem the great philosophical traditions of India, China, and the
+Persian-Arabic world".
 
-- **Good for**: the most recent attempt at exactly the book being planned. Its apparatus (timeline,
-  logic appendix, bibliography) is a concrete model for `04-structure-and-apparatus.md`.
+- **Good for**: the most recent attempt at exactly the book being planned, and the sharpest available
+  case of billing outrunning contents.
 - **Weak on**: proportion, and this is the important lesson. See [Humphreys 2019].
+- **Do not rely on**: this entry previously described the book as carrying an appendix on logic, a
+  timeline of philosophers, a bibliography and an index, and `04-structure-and-apparatus.md` built
+  apparatus recommendations partly on that. The publisher page does not confirm it. It is plausible
+  and widely reported, but it needs checking against the physical book before being cited again.
 - Record: https://www.penguinrandomhouse.com/books/610800/the-history-of-philosophy-by-a-c-grayling/
 
 ### [Humphreys 2019]
