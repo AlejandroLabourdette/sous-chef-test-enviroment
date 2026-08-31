@@ -62,7 +62,7 @@ The exemplars bracket the range:
 | Book | Shape | What the length buys and costs |
 |---|---|---|
 | [Warburton 2011] | 40 short chapters, one volume | Readable end to end. A thinker gets one or two ideas and no depth |
-| [Grayling 2019] | ~600 pages, one volume, five traditions | One volume covering the world. Non-Western material compressed to about an eighth, which [Humphreys 2019] calls tokenistic |
+| [Grayling 2019] | 704 pages, one volume, Western plus four other traditions | One volume covering the world. Everything outside the West compressed into about an eighth of it in total, which [Humphreys 2019] calls tokenistic |
 | [Gottlieb 2000] | Multi-volume, general audience | Room for arguments to stay intact. The series is still incomplete |
 | [Kenny 2004-2007] | 4 volumes, narrative plus thematic | Both axes covered. Roughly doubles the length, with deliberate overlap |
 | [Copleston 1946-1975] | 9 volumes | Nothing omitted. No general reader will finish it |

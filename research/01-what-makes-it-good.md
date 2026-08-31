@@ -26,12 +26,17 @@ one feels like the assignment.
 The reader must always be able to tell what the philosopher claimed from what you think about it.
 Both can be on the page. They cannot be in the same sentence unmarked.
 
-This is the documented charge against [Russell 1945]: it "is not always accurate in its account of
-the thinkers it covers, nor always fair to them", and a symposium on the work put the objection
-precisely, that a history of philosophy should be an objective statement of doctrines and arguments,
-whereas Russell commented on the history of ideas from his own point of view. [Copleston 1946-1975]
-was written in part to redress this, aiming to give full place to each thinker and present the
-thought in a rounded way.
+This is the standing charge against [Russell 1945]. Summarising the book's first reviewers,
+A. C. Grayling writes that it "is not always accurate in its account of the thinkers it covers, nor
+always fair to them", and [Symposium 1947] put the objection precisely: a history of philosophy
+should be an objective statement of doctrines and arguments, whereas Russell commented on the history
+of ideas from his own point of view.
+
+[Copleston 1946-1975] is the standard contrast, aiming to give full place to each thinker and present
+the thought in a rounded way. Note what the contrast does *not* establish: Copleston did not write to
+correct Russell. His nine volumes were conceived for Catholic seminary students who were getting
+philosophy as theses and proofs. The two books are a useful pair because they solve the same problem
+differently, not because one answers the other.
 
 Note that the fix is not neutrality. Russell's book is readable *because* he has a view. The fix is
 marking the boundary, so the reader can take your judgement or leave it and still get the philosopher.

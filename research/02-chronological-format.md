@@ -25,11 +25,17 @@ That produces a genuine dilemma with three answers, and the book has to pick one
 | **Tradition blocks** | Complete each tradition end to end, then start the next | Not a chronological book. It restarts the clock repeatedly, loses all simultaneity, and structurally invites the appendix problem (see F5 below) |
 | **Braided: era, then tradition** | Divide into eras by date; inside each era run each tradition as a continuous stretch; close the era looking across | Some repetition at era boundaries; requires era boundaries that are defensible for every tradition |
 
-**Recommendation: braided.** (judgement, supported by [Adamson 2014- ] giving each tradition
-volume-length continuous treatment, and by [Humphreys 2019] on what happens to [Grayling 2019]
-without it.) It is the only one of the three that keeps continuity within a tradition at chapter
-scale while keeping simultaneity visible at book scale, and it is the only one that gives every
-tradition the same structural standing.
+**Recommendation: braided.** (judgement.) It is the only one of the three that keeps continuity
+within a tradition at chapter scale while keeping simultaneity visible at book scale, and it is the
+only one that gives every tradition the same structural standing.
+
+**What the sources do and do not support here.** [Humphreys 2019] on [Grayling 2019] is direct
+evidence against the third option in the table, tradition material folded in as a minor section.
+[Adamson 2014- ] demonstrates that continuous, unhurried treatment of a tradition works, but he
+achieves it with a volume per tradition, which *is* the tradition-blocks row above. He is evidence
+for the continuity property that braiding preserves, not for braiding over blocking. Braiding is this
+folder's own adaptation of that property to a single volume, and it is asserted as a judgement rather
+than as a finding.
 
 ---
 
@@ -75,11 +81,12 @@ Decide the share of the book each tradition gets, and the rule that share follow
 Otherwise the proportions fall out of which material was easiest to write, which in practice means
 the tradition the author already knows.
 
-The cautionary case is concrete. [Grayling 2019] is billed as the first accessible history to cover
-Western, Indian, Chinese, Arabic-Persian and African traditions. [Humphreys 2019] reports that
-"non-western thought accounts for barely one-eighth of the book and is presented in a rather
-tokenistic fashion." The billing and the page count disagree, and the page count is what the book
-actually did.
+The cautionary case is concrete. [Grayling 2019] is billed by its publisher as "the first
+authoritative and accessible single-volume history of philosophy to cover both Western and Eastern
+traditions", surveying "in tandem" the traditions of India, China and the Persian-Arabic world.
+[Humphreys 2019] reports that "non-western thought accounts for barely one-eighth of the book and is
+presented in a rather tokenistic fashion" - an eighth for everything outside the West, taken
+together. The billing and the page count disagree, and the page count is what the book actually did.
 
 ---
 
@@ -133,9 +140,17 @@ the load-bearing claims of the book, and the easiest to get wrong.
 
 **Resemblance is not evidence of influence.** Never let similarity alone carry a transmission claim.
 When the evidence is genuinely thin, say what the state of the question is rather than picking a
-side for narrative convenience. [Berryman 2022] models the phrasing: it distinguishes the
-poorly-attested Greek-to-India story from the possibility that Islamic atomism was affected by
-classical Indian debates, which "has been more extensively considered".
+side for narrative convenience.
+
+This rule is not a novelty of this folder. It is [Skinner 1969]'s **mythology of parochialism**: the
+historian mistakes an author's references and falsely attributes influence on the basis of random
+similarities between texts. It is the fourth of his four mythologies, and the one most dangerous to a
+multi-tradition chronology, because such a book will keep finding real resemblances between
+traditions that never met.
+
+[Berryman 2022] models the phrasing that avoids it: it distinguishes the poorly-attested
+Greek-to-India story from the possibility that Islamic atomism was affected by classical Indian
+debates, which "has been more extensively considered".
 
 ### Traditions that did not interact
 
@@ -208,10 +223,10 @@ prolepsis, and its defining error is conflating the significance an observer fin
 with what the statement meant. A chronological book is unusually exposed, because it always knows
 what came next and is always tempted to foreshadow.
 
-**F4. Manufactured coherence and the doctrine myth.** The other two mythologies in [Skinner 1969]:
-imposing a tidy system on work that had none, and treating scattered remarks as a settled position
-or blaming a writer for not answering a question they never asked. A survey chapter wants a clean
-shape, and that want is the pressure.
+**F4. Manufactured coherence and the doctrine myth.** Two more of the four mythologies in
+[Skinner 1969]: imposing a tidy system on work that had none, and treating scattered remarks as a
+settled position or blaming a writer for not answering a question they never asked. A survey chapter
+wants a clean shape, and that want is the pressure.
 
 **F5. The appendix problem.** Non-Western traditions handled as a section appended to the real book
 rather than as part of its spine. This is the failure [Humphreys 2019] identifies in
@@ -220,7 +235,9 @@ the chronological frame, no amount of respectful writing inside that section fix
 structure exists to prevent it.
 
 **F6. The false through-line.** Inventing continuity between traditions to keep one narrative
-running. The mirror image of F5: over-connection rather than exclusion, and equally untrue.
+running. This is the fourth mythology in [Skinner 1969], **parochialism**: falsely attributing
+influence on the basis of random similarities between texts. The mirror image of F5, over-connection
+rather than exclusion, and equally untrue.
 
 **F7. Inherited canon as natural fact.** Taking the standard sequence of names as given. [Park 2013]
 shows the canon was actively reshaped between 1780 and 1830, on grounds that included a racialised
