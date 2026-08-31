@@ -201,7 +201,23 @@ so is a global claim delivered by a book that is seven-eighths Western.
 
 ## Decision log
 
-Append here as decisions are made. Format: date, decision number, what was chosen, why, what it
-changes in `01` to `05`.
+Append here as decisions are made, newest last. One entry per decision.
 
-*(empty)*
+**Format**: heading of `YYYY-MM-DD - Dn: what was chosen`, then **Why**, then **Changes**, listing
+what has to be updated in `01` to `05` as a result. If a decision is later reversed, do not delete
+the entry; add a new one that supersedes it and say so.
+
+### Example entry (not a real decision - delete when the first real one is logged)
+
+**2026-01-15 - D3: single volume, 180,000 words.**
+
+**Why**: a series risks the stall visible in [Gottlieb 2016], sixteen years after the first volume
+with the third still unpublished. One volume forces the scope discipline that D1 and D2 need anyway.
+
+**Changes**: unblocks D6 and D11. At 180,000 words the arithmetic in `04` gives roughly 45 chapters
+at a viable length, so D2 should select for about that many. Confirms the thread guide over thematic
+sections per era in `04`. No change to `01`, `02`, `03` or `05`.
+
+---
+
+*(no decisions logged yet)*
