@@ -30,7 +30,9 @@ Peter Singer, readable straight through because they are built the same way.
 
 ## The chapter template
 
-Seven slots. Proportions are of chapter length, not fixed word counts.
+Seven slots. Proportions are of chapter length, not fixed word counts, and they sum to 100% because
+each slot is inclusive of its own connective prose. The transitions, framing and signposting the rest
+of this folder asks for come out of the slot they serve, not from a separate budget.
 
 | # | Slot | Share | Contents |
 |---|---|---|---|
@@ -143,8 +145,14 @@ apparatus theatre: it looks like guidance and gives none.
 A general reader is stopped by superscript numbers; a checking reader is served fine by an endnote
 section keyed to page and quoted phrase. Quotations, contested readings, statistics and any claim
 about what a scholar thinks all get a note. Ordinary exposition does not.
-**Cost:** slightly harder for the checking reader to know a note exists. Accepted, because the
-general reader is the larger constituency. Revisit if the audience decision in `05` changes.
+**Cost:** slightly harder for the checking reader to know a note exists.
+**Revisited against the audience recommendation in `05`, which is B, the serious self-learner, not
+the general reader.** The recommendation survives but the reasoning changes: this reader *is* the
+checking reader, so the notes matter more, and the B column of the propagation table asks for
+"endnotes, denser". Keep note markers out of the body text, because unbroken prose is still what
+makes a hard argument readable, but treat the endnote section as load-bearing apparatus rather than
+as a concession: keyed by page and phrase, generous rather than minimal, and pointing at editions
+this reader can actually get hold of.
 **Non-negotiable:** every translation used is named, per `03`.
 
 ### Pronunciation guide
