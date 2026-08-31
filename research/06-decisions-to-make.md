@@ -4,6 +4,10 @@ This research does not settle these. They are choices for the author, and severa
 outside the scope of the research ticket. Each entry states the decision, the realistic options,
 what each option costs, and which document the answer feeds into.
 
+**Attribution.** Every option list and consequence below is `(judgement)`, except where a source is
+cited for a fact about an exemplar. Nothing here reports what anyone else concluded; it is the
+folder's reading of what each choice would cost. The choices themselves are the author's.
+
 The principles behind these choices are in `01` to `05`. This file is the log of what has not yet
 been chosen. **Append decisions here as they are made**, with the date and the reasoning, so a
 future session can see what was settled and why rather than reopening it.

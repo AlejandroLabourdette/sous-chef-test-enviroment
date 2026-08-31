@@ -32,6 +32,12 @@ produces a book that serves none, which is the usual way this decision fails (sy
 
 How each choice lands on decisions already specified in `02`, `03` and `04`.
 
+**Attribution: the whole table is `(judgement)`.** The three audiences are drawn from what the
+exemplars actually target and are cited as such. Every cell, though, is this folder's reasoning about
+what that audience implies, not a finding reported by any source. It is offered because the
+propagation is real and mostly unexamined, and it is more useful stated and arguable than left
+implicit.
+
 | Decision (source doc) | A. General reader | B. Self-learner | C. Student |
 |---|---|---|---|
 | **Chapter length** (`04`) | Short, 1,500-2,500 words | Medium, 3,000-5,000 | Medium to long, coverage-driven |

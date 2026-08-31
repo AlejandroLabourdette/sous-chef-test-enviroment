@@ -30,6 +30,11 @@ before asking what it is worth. The reader should always be able to tell which o
 
 ## Drawing the line on the page
 
+**Attribution.** The three-register scheme and the signal-phrase table below are this folder's own
+`(synthesis)`. The problem they solve is documented - it is the charge against [Russell 1945] stated
+by [Symposium 1947] - but no source proposes this scheme as the remedy. It is a working device, not a
+finding.
+
 There are three registers, and the whole problem is keeping them distinguishable.
 
 1. **Exposition.** What the text says or claims. Defensible by citation.
@@ -70,7 +75,8 @@ For a historical survey this does real work, because the naive reading of a text
 1200 CE is almost always the one that makes its author look foolish, and it is usually the one a
 reader will reach on their own.
 
-Charity has three limits, and each is a real constraint:
+Charity has three limits, and each is a real constraint. The principle itself is [Quine 1960]; the
+limits C1-C3 are `(synthesis)`, drawn from the tension between charity and [Skinner 1969]:
 
 **C1. Charity governs reading, not verdict.** Take the strongest version of the position, then say
 what you think of it. Charity is not a reason to conclude that everybody was right. It raises the
@@ -94,6 +100,10 @@ all three registers doing their job.
 ---
 
 ## Primary sources and translation
+
+**Attribution.** `(synthesis)` throughout, except where cited. The rules follow from the curse of
+knowledge in [Pinker 2014] and the interpretive stakes in [Skinner 1969], but the specific policies
+below are the folder's own.
 
 **Work from the primary texts.** A survey assembled from other surveys inherits every error in them
 and adds compression. [Gottlieb 2000] is the accessible model of a general-audience history written
@@ -137,6 +147,8 @@ surface. A workable triage (synthesis):
   chapter space on it.
 - **The dispute is about details of scholarship rather than about the philosophy.** Leave it out
   entirely.
+
+The triage is `(judgement)`. Nothing in the sources says which disputes a survey should surface.
 
 Two things to avoid. First, false balance: not every reading has a serious constituency, and
 presenting a fringe view as an equal side misinforms. Second, borrowed confidence: if the honest

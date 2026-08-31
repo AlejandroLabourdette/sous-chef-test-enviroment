@@ -30,6 +30,12 @@ Peter Singer, readable straight through because they are built the same way.
 
 ## The chapter template
 
+**Attribution: `(judgement)`. This template is the folder's own invention.** It is not extracted from
+any exemplar and no source proposes it. It is built to make the principles in `01` to `03`
+enforceable, and the slot shares in particular are a starting allocation to be adjusted against real
+drafts, not a finding about how such books are written. Treat it as a default to depart from
+deliberately.
+
 Seven slots. Proportions are of chapter length, not fixed word counts, and they sum to 100% because
 each slot is inclusive of its own connective prose. The transitions, framing and signposting the rest
 of this folder asks for come out of the slot they serve, not from a separate budget.
@@ -109,10 +115,12 @@ thematic chapter per era instead, that is strictly better and considerably longe
 
 ## Apparatus
 
-Each item with a recommendation and its cost.
+Each item with a recommendation and its cost. **All the recommendations in this section are
+`(judgement)`**: what an exemplar carries is a fact and is cited as one, but the decision that this
+book should follow it is the folder's own.
 
 ### Timeline
-**Recommend: yes, and as parallel columns, one per tradition, on a shared date axis.**
+**Recommend: yes, and as parallel columns, one per tradition, on a shared date axis.** `(judgement)`
 For a multi-tradition book this is not decoration, it is the one place simultaneity becomes visible
 at a glance, and it does structurally what the prose can only do sequentially. [Grayling 2019]
 includes a timeline of philosophers.
@@ -121,7 +129,7 @@ for composite and undated texts (see O3 in `02`). Mark uncertain dates visibly r
 picking one.
 
 ### Glossary
-**Recommend: yes, organised by tradition rather than alphabetically as one list.**
+**Recommend: yes, organised by tradition rather than alphabetically as one list.** `(judgement)`
 The book has two distinct vocabulary problems: transliterated terms with no English equivalent
 (*dharma*, *li*, *ren*, *logos*, *ousia*), and English words that drift between centuries and
 traditions (idea, nature, virtue, reason, substance). Both are the curse of knowledge in
@@ -133,7 +141,7 @@ grouped glossary.
 first use in the text, per `03`.
 
 ### Further reading
-**Recommend: per chapter, annotated, at the end of the chapter, not pooled at the back.**
+**Recommend: per chapter, annotated, at the end of the chapter, not pooled at the back.** `(judgement)`
 Two or three items, each with a sentence on what it is and how hard it is. This is slot 7 of the
 template, and it is what makes the book a door rather than a wall (P9 in
 [`01-what-makes-it-good.md`](01-what-makes-it-good.md)). A bare list of titles at the back is
@@ -141,7 +149,7 @@ apparatus theatre: it looks like guidance and gives none.
 **Cost:** a few hundred words per chapter, and it dates faster than the rest of the book.
 
 ### Citations
-**Recommend: endnotes keyed by page and phrase, no note markers in the body text.**
+**Recommend: endnotes keyed by page and phrase, no note markers in the body text.** `(judgement)`
 A general reader is stopped by superscript numbers; a checking reader is served fine by an endnote
 section keyed to page and quoted phrase. Quotations, contested readings, statistics and any claim
 about what a scholar thinks all get a note. Ordinary exposition does not.
@@ -156,7 +164,7 @@ this reader can actually get hold of.
 **Non-negotiable:** every translation used is named, per `03`.
 
 ### Pronunciation guide
-**Recommend: yes, short, for transliterated names and terms.**
+**Recommend: yes, short, for transliterated names and terms.** `(judgement)`
 Specific to the multi-tradition scope, and cheap. A reader who cannot say *Nagarjuna*, *Zhuangzi* or
 *Ibn Rushd* in their head reads those chapters with more friction than the Greek ones, which
 quietly reinforces the imbalance the book is trying to avoid.
@@ -164,6 +172,7 @@ quietly reinforces the imbalance the book is trying to avoid.
 
 ### Note on scope and canon
 **Recommend: yes, a short front or back section saying who is in the book and why, and who is not.**
+`(judgement; grounding: [Park 2013], [Garfield & Van Norden 2016])`
 [Park 2013] shows the familiar canon was actively reshaped between 1780 and 1830 on grounds that
 included a racialised philosophical anthropology, and [Garfield & Van Norden 2016] argue that scope
 should be stated honestly rather than left implicit. A book that silently reproduces an inherited
@@ -171,7 +180,7 @@ list has made a claim without defending it.
 **Cost:** it invites the argument. That is the point.
 
 ### Index
-**Recommend: yes, names and concepts.** Standard for the genre; [Grayling 2019] carries one.
+**Recommend: yes, names and concepts.** `(judgement)` Standard for the genre.
 **Cost:** it is real work, usually late and usually professional.
 
 ---

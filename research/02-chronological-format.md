@@ -41,7 +41,13 @@ than as a finding.
 
 ## Ordering rules
 
-### O1. Era boundaries are dates, not European period names
+**Attribution.** O1-O5 are this folder's own rules `(judgement)`. No source prescribes them; they are
+what the principles in `01` and the evidence in the sources imply for a book of this shape. Where a
+rule has scholarly grounding, the grounding is cited inside the rule and is marked as such. Disagree
+with any of them freely, but replace them with something, because the failure modes below are what
+fills the vacuum.
+
+### O1. Era boundaries are dates, not European period names *(judgement; grounding: [Park 2013])*
 
 "Ancient", "Medieval", "Renaissance", "Early Modern" are periods of European history. Applying them
 globally is not a neutral convenience: the Song dynasty is not "medieval", and calling it that
@@ -58,24 +64,24 @@ replaced earlier histories that began in Egypt or Western Asia and reclassified 
 religion rather than philosophy. A chronological book that adopts the standard period scheme without
 comment inherits that construction silently.
 
-### O2. Order within an era by period of activity, not by birth
+### O2. Order within an era by period of activity, not by birth *(judgement)*
 
 A thinker enters the conversation when they produce work, not when they are born. Use the floruit
 or the date of the principal work.
 
-### O3. Composite and undated texts are placed by period of formation, and the uncertainty is stated
+### O3. Composite and undated texts are placed by period of formation, and the uncertainty is stated *(judgement)*
 
 The Upanishads, the *Daodejing*, the Presocratic fragments and much early Buddhist material do not
 have a single author or a firm date. Place them by the period scholars assign to their formation,
 and say in the text that the dating is contested and roughly what the range is. Never present a
 convenient date as a settled one.
 
-### O4. Era boundaries are cut where a tradition changes, and the cut is justified in the text
+### O4. Era boundaries are cut where a tradition changes, and the cut is justified in the text *(judgement)*
 
 Do not inherit boundaries. Choose them, and tell the reader in one or two sentences why the book
 breaks here. If a boundary is clean for one tradition and arbitrary for another, say that too.
 
-### O5. Proportion is fixed before the drafting, not after
+### O5. Proportion is fixed before the drafting, not after *(judgement; grounding: [Humphreys 2019] on [Grayling 2019])*
 
 Decide the share of the book each tradition gets, and the rule that share follows, before writing.
 Otherwise the proportions fall out of which material was easiest to write, which in practice means
@@ -163,7 +169,7 @@ honestly: what these people shared was a moment in time, not a conversation.
 
 ## The unit of the book
 
-A recommended shape, to be confirmed in [`04-structure-and-apparatus.md`](04-structure-and-apparatus.md):
+`(judgement)` throughout this section. A recommended shape, to be confirmed in [`04-structure-and-apparatus.md`](04-structure-and-apparatus.md):
 
 ```
 Part: an era, labelled by date range
